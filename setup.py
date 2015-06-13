@@ -9,6 +9,7 @@ except ImportError:
 setup(
     name='django-tota11y',
     version='0.1.0',
+    description='Easy to install Django app for tota11y - an accessibility visualization toolkit by Khan Academy (http://khan.github.io/tota11y/).',
     author='Dmitry Kozhedubov',
     author_email='hiisi13@gmail.com',
     url='https://github.com/hiisi13/django-tota11y',
