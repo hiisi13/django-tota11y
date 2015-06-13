@@ -9,7 +9,7 @@ Usage
 
 * Install django-tota11y::
 
-    pip install git+git://github.com/hiisi13/django-tota11y.git
+    pip install django-tota11y
 
 * Add **tota11y** to INSTALLED_APPS
 * Add **tota11y.middleware.Tota11yMiddleware** to MIDDLEWARE_CLASSES
