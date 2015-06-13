@@ -6,9 +6,11 @@ except ImportError:
     from distutils.core import setup
 
 
+import tota11y
+
 setup(
     name='django-tota11y',
-    version='0.1.0',
+    version=tota11y.__version__,
     description='Easy to install Django app for tota11y - an accessibility visualization toolkit by Khan Academy (http://khan.github.io/tota11y/).',
     author='Dmitry Kozhedubov',
     author_email='hiisi13@gmail.com',
