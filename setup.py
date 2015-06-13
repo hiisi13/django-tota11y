@@ -18,6 +18,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
+        'django>=1.4.2',
     ],
     license="MIT",
     keywords=['accessibility', 'visualization'],
